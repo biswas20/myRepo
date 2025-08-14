@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#blogOne{
+    background-color: green;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 20px;
+    margin-bottom: 10px;
+}
